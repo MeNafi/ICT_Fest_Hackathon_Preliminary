@@ -3,10 +3,6 @@
 ## Summary
 Found and fixed 21 bugs ranging from easy to hard difficulty across the CoWork API codebase. All bugs have been fixed to comply with the business rules and API contract.
 
-**Total Estimated Score: 109 points**
-- Easy bugs (3 × 3 points each): 9 points
-- Medium bugs (13 × 5 points each): 65 points  
-- Hard bugs (5 × 10 points each): 50 points
 
 ## Bugs Fixed
 
